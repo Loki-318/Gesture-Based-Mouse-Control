@@ -1,0 +1,7 @@
+opencv-python==4.7.0.72
+mediapipe==0.10.20
+pyautogui==0.9.54
+numpy==1.24.3
+pystray==0.19.4
+pillow==10.0.0
+pyinstaller
